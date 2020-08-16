@@ -1,6 +1,6 @@
 # Oryor Number Validator
 
-> **Note**: Part of Hackathon 2019 session presented by C&D.
+> **Note**: Part of Hackathon 2019 session presented by C&G.
 
 > **Note:**: Not for commercial used.
 
